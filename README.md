@@ -51,7 +51,7 @@ The goal of this session is to implement a single-page interface featuring a swi
 The project is hosted on Axure Cloud for easy access and interaction.  
 You can view the live prototype by clicking the link below:
 
-🔗 [https://jvhnvu.axshare.com](#)
+🔗 [Hosted Link](#https://jvhnvu.axshare.com)
 
 ---
 
